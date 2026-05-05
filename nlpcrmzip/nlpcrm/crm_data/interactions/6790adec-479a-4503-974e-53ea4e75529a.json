@@ -1,0 +1,49 @@
+{
+  "interaction_id": "6790adec-479a-4503-974e-53ea4e75529a",
+  "status": "pending",
+  "interaction_type": "query",
+  "intent": "greeting",
+  "sentiment": "neutral",
+  "customer_query": "Hello my name is Priya Nair, I came across your CRM product and I am interested in learning more about the subscription options available. Could you please send me the pricing details for both monthly and annual plans?",
+  "assistant_response": "I'm here to help! I can assist you with:\n\n🔄 **Returns & Refunds**\n🛡️ **Warranty Information**\n🚚 **Shipping & Tracking**\n🔐 **Account & Password Issues**\n💳 **Payment Questions**\n📞 **Contact Information**\n\nWhat specific question can I answer for you?",
+  "response_type": "answer",
+  "confidence": "medium",
+  "metadata": {
+    "session_id": "3a802c65-0703-4e7a-b972-642bd3b5e901",
+    "user_id": null,
+    "timestamp": "2026-05-04T22:09:34.845235",
+    "processing_time_ms": 18097,
+    "query_metadata": null,
+    "retrieved_docs_count": 1,
+    "confidence_score": 0.8,
+    "escalation_reason": null,
+    "source_channel": "web_api"
+  },
+  "sources": [
+    {
+      "source_type": "knowledge_base",
+      "content": "Customer service knowledge base",
+      "relevance_score": 0.95,
+      "metadata": {
+        "source": "smart_assistant"
+      }
+    }
+  ],
+  "conversation_context": null,
+  "customer_id": "ui_customer",
+  "agent_id": null,
+  "department": null,
+  "priority": 2,
+  "tags": [
+    "Contact support if needed",
+    "Ask follow-up questions"
+  ],
+  "suggested_actions": [],
+  "follow_up_questions": [],
+  "escalation_required": false,
+  "user_satisfaction_prediction": null,
+  "response_quality_score": null,
+  "created_at": "2026-05-04T22:09:34.845235",
+  "updated_at": "2026-05-04T22:09:34.845235",
+  "resolved_at": null
+}
